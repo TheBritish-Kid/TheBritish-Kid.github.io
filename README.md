@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### EASY LINK
 
-[MyWeb](hats184.github.io)
+[MyWeb](https://hats184.github.io)
 
 ### Markdown
 
